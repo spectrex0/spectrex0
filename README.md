@@ -1,46 +1,69 @@
-![tokyo](https://cdn.discordapp.com/emojis/1275180388255273162.gif?size=48&animated=true&name=dancemonkey)
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Spectre!</h2>
+<p align="center">
+  <img src="https://cdn.discordapp.com/emojis/1275180388255273162.gif?size=48&animated=true&name=dancemonkey" />
+</p>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Spectre -->
+<h2 align="center">Hey there! I'm Spectre 👋</h2>
 
-### 👨🏻‍💻 &nbsp;About Me
+---
 
-👨‍💻 &nbsp; HOBBYIST CODER!
+### 👨🏻‍💻 About Me
+- 💻 Hobbyist coder
+- 🚀 Passionate about building cool stuff
+- ⚡ Focused on backend, bots & web apps
 
-### OS
-<img height="180em" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Arch-Dark.svg"></img>
-<img height="180em" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Windows-Dark.svg"></img>
+---
 
-### 🛠 &nbsp;Tech Stack
-![Mongodb](https://img.shields.io/badge/Mongo%20DB-0a5c0a?style=for-the-badge&logo=mongodb&logoColor=00FF00)&nbsp;
-![Discord.js](https://img.shields.io/badge/discord.js-3670A0?style=for-the-badge&logo=discord&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![React.js](https://img.shields.io/badge/react.js-%2335495e.svg?style=for-the-badge&logo=reactdotjs&logoColor=%234FC08D)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-%231572B6.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![Elysia](https://img.shields.io/badge/Elysia-%231572B6.svg?style=for-the-badge&logo=bun&logoColor=whit)&nbsp;
-### 🧰 &nbsp;Version Controll & Tools 
+### 💻 Operating Systems
+<p>
+  <img height="80" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Arch-Dark.svg"/>
+  <img height="80" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Windows-Dark.svg"/>
+</p>
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![koyeb](https://img.shields.io/badge/Koyeb-000000.svg?style=for-the-badge&logo=koyeb&logoColor=white)&nbsp;
-![render](https://img.shields.io/badge/Render-000000.svg?style=for-the-badge&logo=render&logoColor=white&x-oss-process=image/resize,m_mfit,w_320,h_320)&nbsp;
-![vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white&x-oss-process=image/resize,m_mfit,w_320,h_320)&nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
+---
 
+### 🛠 Tech Stack
+![MongoDB](https://img.shields.io/badge/MongoDB-0a5c0a?style=for-the-badge&logo=mongodb&logoColor=00FF00)
+![Discord.js](https://img.shields.io/badge/discord.js-3670A0?style=for-the-badge&logo=discord&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Elysia](https://img.shields.io/badge/elysia-000000?style=for-the-badge&logo=bun&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 💰 &nbsp;Support My Work
-![Paypal](https://img.shields.io/badge/Paypal-%2335495e.svg?style=for-the-badge&logo=paypal&logoColor=%234FC08D)&nbsp;
-@LilAlxz]
+---
 
+### 📚 Currently Learning
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Prisma](https://img.shields.io/badge/prisma-0C344B?style=for-the-badge&logo=prisma&logoColor=white)
 
-### 🤝🏻 &nbsp;Contact Me
-![Discord](https://img.shields.io/badge/Discord-%2335495e.svg?style=for-the-badge&logo=discord&logoColor=%234FC08D)&nbsp;
-dev0_tokyo
+---
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center"/>
-                  
+### 🧰 Tools & Platforms
+![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/render-000000?style=for-the-badge&logo=render&logoColor=white)
+![Koyeb](https://img.shields.io/badge/koyeb-000000?style=for-the-badge&logo=koyeb&logoColor=white)
+![VS Code](https://img.shields.io/badge/vscode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe](https://img.shields.io/badge/adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/googlecloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+---
+
+### 💰 Support
+![PayPal](https://img.shields.io/badge/paypal-00457C?style=for-the-badge&logo=paypal&logoColor=white)  
+**@LilAlxz**
+
+---
+
+### 🤝 Contact
+![Discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)  
+**dev0_tokyo**
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
+</p>
