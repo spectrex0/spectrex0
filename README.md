@@ -2,14 +2,14 @@
   <img src="https://cdn.discordapp.com/emojis/1275180388255273162.gif?size=48&animated=true&name=dancemonkey" />
 </p>
 
-<h2 align="center">Hey there! I'm Spectre 👋</h2>
+<h2 align="center">Hey there! I'm Tokyo 👋</h2>
 
 ---
 
 ### 👨🏻‍💻 About Me
 - 💻 Hobbyist coder
 - 🚀 Passionate about building cool stuff
-- ⚡ Focused on backend, bots & web apps
+- ⚡ Focused on backend, bots & web apps or something like that
 
 ---
 
@@ -33,7 +33,7 @@
 
 ---
 
-### 📚 Currently Learning
+### 📚 Currently Learning (i'll die learning)
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Prisma](https://img.shields.io/badge/prisma-0C344B?style=for-the-badge&logo=prisma&logoColor=white)
 
