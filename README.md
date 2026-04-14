@@ -7,9 +7,9 @@
 ---
 
 ### 👨🏻‍💻 About Me
-- 💻 Hobbyist coder
-- 🚀 Passionate about building cool stuff
-- ⚡ Focused on backend, bots & web apps or something like that
+-  Hobbyist coder
+-  Passionate about building cool stuff
+-  Focused on backend, bots & web apps or something like that
 
 ---
 
