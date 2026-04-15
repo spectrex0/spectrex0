@@ -42,9 +42,11 @@
 ![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<br>
 ![Render](https://img.shields.io/badge/render-000000?style=for-the-badge&logo=render&logoColor=white)
 ![Koyeb](https://img.shields.io/badge/koyeb-000000?style=for-the-badge&logo=koyeb&logoColor=white)
 ![VS Code](https://img.shields.io/badge/vscode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<br>
 ![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe](https://img.shields.io/badge/adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/googlecloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -54,4 +56,4 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
 </p>
-**
+
