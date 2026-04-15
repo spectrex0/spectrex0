@@ -21,13 +21,15 @@
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 ![MongoDB](https://img.shields.io/badge/MongoDB-0a5c0a?style=for-the-badge&logo=mongodb&logoColor=00FF00)
 ![Discord.js](https://img.shields.io/badge/discord.js-3670A0?style=for-the-badge&logo=discord&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+<br>
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Elysia](https://img.shields.io/badge/elysia-000000?style=for-the-badge&logo=bun&logoColor=white)
+<br>
 ![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
