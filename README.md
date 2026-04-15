@@ -1,19 +1,19 @@
-<p align="center">
+**<p align="center">
   <img src="https://cdn.discordapp.com/emojis/1275180388255273162.gif?size=48&animated=true&name=dancemonkey" />
 </p>
 
-<h2 align="center">Hey there! I'm Tokyo 👋</h2>
+<h2 align="center">Hey there! I'm Tokyo</h2>
 
 ---
 
-### 👨🏻‍💻 About Me
+### About Me
 -  Hobbyist coder
 -  Passionate about building cool stuff
 -  Focused on backend, bots & web apps or something like that
 
 ---
 
-### 💻 Operating Systems
+### Operating Systems
 <p>
   <img height="80" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Arch-Dark.svg"/>
   <img height="80" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Windows-Dark.svg"/>
@@ -33,13 +33,12 @@
 
 ---
 
-### 📚 Currently Learning (i'll die learning)
+### Currently Learning (i'll die learning)
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Prisma](https://img.shields.io/badge/prisma-0C344B?style=for-the-badge&logo=prisma&logoColor=white)
 
 ---
 
-### 🧰 Tools & Platforms
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -52,18 +51,7 @@
 
 ---
 
-### 💰 Support
-![PayPal](https://img.shields.io/badge/paypal-00457C?style=for-the-badge&logo=paypal&logoColor=white)  
-**@LilAlxz**
-
----
-
-### 🤝 Contact
-![Discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)  
-**dev0_tokyo**
-
----
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
 </p>
+**
