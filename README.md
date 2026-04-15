@@ -55,6 +55,15 @@
 
 ---
 
+### Other Skills & Interests
+-  Network Scanning & Enumeration
+-  OSINT & Digital Footprinting
+-  CTF Challenges
+-  Vulnerability Assessment
+-  Backend Security
+
+---
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
 </p>
