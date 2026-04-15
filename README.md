@@ -1,4 +1,4 @@
-**<p align="center">
+<p align="center">
   <img src="https://cdn.discordapp.com/emojis/1275180388255273162.gif?size=48&animated=true&name=dancemonkey" />
 </p>
 
