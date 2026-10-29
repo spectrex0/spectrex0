@@ -2,7 +2,7 @@
   <img src="https://cdn.discordapp.com/emojis/1275180388255273162.gif?size=48&animated=true&name=dancemonkey" />
 </p>
 
-<h2 align="center">Hey there! I'm Tokyo</h2>
+<h2 align="center">Hey I'm Tokyo !</h2>
 
 ---
 
@@ -10,6 +10,7 @@
 -  Hobbyist coder
 -  Passionate about building cool stuff
 -  Focused on backend, bots & web apps or something like that
+-  I love reverse engineering!
 
 ---
 
